@@ -1,6 +1,12 @@
-## BBUnity
+# BBUnity
 
-BBUnity is a set of C# based libraries for the games engine Unity:
+## Update 23/11/2026
+
+BBUnity has been brought into a single library: [BBUnity](https://github.com/bigbearstudios-unity/BBUnity) which is currently undergoing large changes to reach v1.0.0.
+
+All of the previous libraries have been archived but are still avaliable.
+
+### Previous Libraries
 
 - [BBUnity Core](https://github.com/bigbearstudios-unity/core) - The core library with helpers / base classes which power the other libraries
 - [BBUnity Core2d](https://github.com/bigbearstudios-unity/core2d) - The core library with helpers for 2D environments
